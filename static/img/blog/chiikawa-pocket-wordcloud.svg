@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="white"/>
+    
+    <!-- 最大关键词 -->
+    <text x="600" y="400" font-size="80" font-weight="bold" text-anchor="middle" fill="#FF6B6B">Chiikawa Pocket</text>
+    
+    <!-- 大号关键词 -->
+    <text x="300" y="200" font-size="60" font-weight="bold" text-anchor="middle" fill="#4ECDC4">可爱</text>
+    <text x="900" y="600" font-size="55" font-weight="bold" text-anchor="middle" fill="#45B7D1">放置游戏</text>
+    <text x="700" y="300" font-size="50" font-weight="bold" text-anchor="middle" fill="#96CEB4">广告</text>
+    
+    <!-- 中号关键词 -->
+    <text x="400" y="500" font-size="45" text-anchor="middle" fill="#D4A5A5">游戏性</text>
+    <text x="800" y="200" font-size="40" text-anchor="middle" fill="#9B9B9B">优化</text>
+    <text x="200" y="600" font-size="40" text-anchor="middle" fill="#FFD93D">角色</text>
+    <text x="600" y="650" font-size="35" text-anchor="middle" fill="#6C5B7B">战斗系统</text>
+    
+    <!-- 小号关键词 -->
+    <text x="500" y="300" font-size="30" text-anchor="middle" fill="#95A5A6">微交易</text>
+    <text x="750" y="450" font-size="30" text-anchor="middle" fill="#E74C3C">卡顿</text>
+    <text x="350" y="430" font-size="25" text-anchor="middle" fill="#2ECC71">画面</text>
+    <text x="850" y="350" font-size="25" text-anchor="middle" fill="#F1C40F">配音</text>
+    
+    <!-- 更小的关键词 -->
+    <text x="450" y="550" font-size="20" text-anchor="middle" fill="#BDC3C7">升级</text>
+    <text x="650" y="250" font-size="20" text-anchor="middle" fill="#E67E22">皮肤</text>
+    <text x="250" y="350" font-size="20" text-anchor="middle" fill="#9B59B6">讨伐</text>
+    <text x="550" y="150" font-size="20" text-anchor="middle" fill="#3498DB">互动</text>
+    
+    <!-- 最小关键词 -->
+    <text x="150" y="450" font-size="15" text-anchor="middle" fill="#7F8C8D">金币</text>
+    <text x="950" y="500" font-size="15" text-anchor="middle" fill="#16A085">任务</text>
+    <text x="400" y="150" font-size="15" text-anchor="middle" fill="#D35400">抽卡</text>
+    <text x="700" y="550" font-size="15" text-anchor="middle" fill="#8E44AD">背景音乐</text>
+</svg> 

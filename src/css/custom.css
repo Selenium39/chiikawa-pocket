@@ -1,0 +1,116 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #ff6b6b;
+  --ifm-color-primary-dark: #ff4a4a;
+  --ifm-color-primary-darker: #ff3939;
+  --ifm-color-primary-darkest: #f70000;
+  --ifm-color-primary-light: #ff8c8c;
+  --ifm-color-primary-lighter: #ff9d9d;
+  --ifm-color-primary-lightest: #ffcece;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  
+  /* 自定义颜色 */
+  --chiikawa-yellow: #ffde59;
+  --chiikawa-blue: #4dabf7;
+  --chiikawa-green: #69db7c;
+  --chiikawa-purple: #da77f2;
+  
+  /* 圆角 */
+  --ifm-global-radius: 12px;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #ff8c8c;
+  --ifm-color-primary-dark: #ff6b6b;
+  --ifm-color-primary-darker: #ff5a5a;
+  --ifm-color-primary-darkest: #ff1919;
+  --ifm-color-primary-light: #ffadad;
+  --ifm-color-primary-lighter: #ffbebe;
+  --ifm-color-primary-lightest: #ffffff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* 全局样式 */
+body {
+  font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+/* 导航栏样式 */
+.navbar {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.navbar__brand {
+  font-weight: 700;
+}
+
+/* 首页英雄区样式 */
+.hero--primary {
+  background: linear-gradient(135deg, var(--ifm-color-primary) 0%, var(--chiikawa-yellow) 100%);
+  color: white;
+}
+
+.hero__title {
+  font-size: 3rem;
+  font-weight: 800;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+/* 按钮样式 */
+.button {
+  border-radius: 30px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+.button--secondary {
+  background-color: white;
+  color: var(--ifm-color-primary);
+}
+
+/* 卡片样式 */
+.card {
+  border-radius: var(--ifm-global-radius);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* 页脚样式 */
+.footer {
+  background-color: #f8f9fa;
+  color: #495057;
+}
+
+[data-theme='dark'] .footer {
+  background-color: #2d3748;
+  color: #e2e8f0;
+}

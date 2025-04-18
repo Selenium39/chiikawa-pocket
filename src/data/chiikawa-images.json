@@ -1,0 +1,116 @@
+{
+  "albums": [
+    {
+      "title": "Chiikawa",
+      "japaneseTitle": "ちいかわ",
+      "description": "虽然有点爱哭但性格温柔。通过除草和讨伐等活动生活。",
+      "category": "Chiikawa",
+      "isAlbum": true,
+      "coverImage": "/img/chiikawa/Chiikawa/Chiikawa.oi0RVduO.png",
+      "images": [
+        "/img/chiikawa/Chiikawa/Chiikawa.oi0RVduO.png",
+        "/img/chiikawa/Chiikawa/0088SUURgy1hzj0peom9tj30fy0immxp.jpg",
+        "/img/chiikawa/Chiikawa/0088SUURgy1hzj0pe9kbxj30wr0vmad9.jpg",
+        "/img/chiikawa/Chiikawa/0088SUURgy1hzj0pbmxoxj30wr0t5wgt.jpg",
+        "/img/chiikawa/Chiikawa/0088SUURgy1hzj0pba41oj30wr0w7diw.jpg",
+        "/img/chiikawa/Chiikawa/0088SUURgy1hzj0pf3dpyj30wr0vogo4.jpg",
+        "/img/chiikawa/Chiikawa/0088SUURgy1hzj0pat7jzj30wr0upq5d.jpg",
+        "/img/chiikawa/Chiikawa/0088SUURgy1hzj0p98iqbj30wr0v8n1d.jpg",
+        "/img/chiikawa/Chiikawa/0088SUURgy1hzj0pagn0qj30wr0uxmzr.jpg",
+        "/img/chiikawa/Chiikawa/0088SUURgy1hzj0p9neocj30wr0vy424.jpg"
+      ]
+    },
+    {
+      "title": "Hachiware",
+      "japaneseTitle": "ハチワレ",
+      "description": "ちいかわ的朋友。开朗积极。住在洞穴里。",
+      "category": "Hachiware",
+      "isAlbum": true,
+      "coverImage": "/img/chiikawa/Hachiware/Hachiware.OfZO944x.png",
+      "images": [
+        "/img/chiikawa/Hachiware/Hachiware.OfZO944x.png",
+        "/img/chiikawa/Hachiware/0078W97Kly1hzj5qp00o0j30hj0hjn1l.jpg",
+        "/img/chiikawa/Hachiware/0078W97Kly1hzj5qortj3j30ho0hotbz.jpg",
+        "/img/chiikawa/Hachiware/0078W97Kly1hzj5qohqgfj30u00u0k0l.jpg",
+        "/img/chiikawa/Hachiware/0078W97Kly1hzj5qo7sl8j30u00u0472.jpg",
+        "/img/chiikawa/Hachiware/0078W97Kly1hzj5qnuo4xj30ff0ff427.jpg",
+        "/img/chiikawa/Hachiware/0078W97Kly1hzj5qnnwiij30is0isgqd.jpg",
+        "/img/chiikawa/Hachiware/0078W97Kly1hzj5qnf07lj30je0jezqo.jpg",
+        "/img/chiikawa/Hachiware/0078W97Kly1hzj5qn8reoj30f70f7tco.jpg",
+        "/img/chiikawa/Hachiware/0078W97Kly1hzj5qn2cj1j30u00u07ef.jpg"
+      ]
+    },
+    {
+      "title": "Usagi",
+      "japaneseTitle": "うさぎ",
+      "description": "ちいかわ的朋友。经常大声喊叫\"ウラ\"、\"ヤハ\"等。",
+      "category": "Usagi",
+      "isAlbum": true,
+      "coverImage": "/img/chiikawa/Usagi/007TQjsPly1hziomndh3wj30u00u0751.jpg",
+      "images": [
+        "/img/chiikawa/Usagi/007TQjsPly1hziomndh3wj30u00u0751.jpg",
+        "/img/chiikawa/Usagi/007TQjsPly1hziomnrq0xj30u00u0mxz.jpg",
+        "/img/chiikawa/Usagi/007TQjsPly1hziomo5an3j30u00u03zc.jpg",
+        "/img/chiikawa/Usagi/007TQjsPly1hziomok1xnj30u00u0mxu.jpg",
+        "/img/chiikawa/Usagi/007TQjsPly1hziomox1h9j30u00u0dgr.jpg",
+        "/img/chiikawa/Usagi/007TQjsPly1hziompbi81j30u00u0dgf.jpg",
+        "/img/chiikawa/Usagi/007TQjsPly1hziompotizj30u00u0t9f.jpg",
+        "/img/chiikawa/Usagi/007TQjsPly1hziomq0qmbj30u00u0t99.jpg",
+        "/img/chiikawa/Usagi/007TQjsPly1hziomqdn8oj30u00u0gm4.jpg",
+        "/img/chiikawa/Usagi/008nUO7ygy1hziliafum9j30zu0zogqk.jpg",
+        "/img/chiikawa/Usagi/008nUO7ygy1hziliat0pwj30zu0zidln.jpg",
+        "/img/chiikawa/Usagi/008nUO7ygy1hzilib5viyj30zu0zi7a0.jpg",
+        "/img/chiikawa/Usagi/008nUO7ygy1hzilibj8p3j30zu0zite9.jpg",
+        "/img/chiikawa/Usagi/008nUO7ygy1hzilibxwmlj30zu0zpahr.jpg",
+        "/img/chiikawa/Usagi/008nUO7ygy1hzilic9g72j30zu0zp7a7.jpg",
+        "/img/chiikawa/Usagi/008nUO7ygy1hziliclamzj30zu0zm43w.jpg",
+        "/img/chiikawa/Usagi/008nUO7ygy1hzilicwzn3j30zu0zewkp.jpg",
+        "/img/chiikawa/Usagi/008nUO7ygy1hzilia3kimj30zu0zo7ap.jpg"
+      ]
+    },
+    {
+      "title": "Momonga",
+      "japaneseTitle": "モモンガ",
+      "description": "总是装可爱。喜欢撒娇要求各种东西。",
+      "category": "Momonga",
+      "isAlbum": true,
+      "coverImage": "/img/chiikawa/Momonga/Momonga.BiBEJv7n.png",
+      "images": [
+        "/img/chiikawa/Momonga/Momonga.BiBEJv7n.png"
+      ]
+    },
+    {
+      "title": "Kurimanju",
+      "japaneseTitle": "くりまんじゅう",
+      "description": "看起来很可爱但是...!?美食家且很会照顾人。",
+      "category": "Kurimanju",
+      "isAlbum": true,
+      "coverImage": "/img/chiikawa/Kurimanju/Kurimanju.ujk7zWOw.png",
+      "images": [
+        "/img/chiikawa/Kurimanju/Kurimanju.ujk7zWOw.png"
+      ]
+    },
+    {
+      "title": "Rakko",
+      "japaneseTitle": "ラッコ",
+      "description": "擅长讨伐且很强。是ちいかわ他们憧憬的存在。",
+      "category": "Rakko",
+      "isAlbum": true,
+      "coverImage": "/img/chiikawa/Rakko/Rakko.BT9Q98NA.png",
+      "images": [
+        "/img/chiikawa/Rakko/Rakko.BT9Q98NA.png"
+      ]
+    },
+    {
+      "title": "Shisa",
+      "japaneseTitle": "シーサー",
+      "description": "拉面店\"郎\"的助手。称拉面铠甲先生为\"师傅\"。",
+      "category": "Shisa",
+      "isAlbum": true,
+      "coverImage": "/img/chiikawa/Shisa/Shisa.CnUn8FNQ.png",
+      "images": [
+        "/img/chiikawa/Shisa/Shisa.CnUn8FNQ.png"
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景 -->
+    <rect width="1200" height="600" fill="#FFF0F5"/>
+    
+    <!-- 左侧装饰区域 -->
+    <rect x="0" y="0" width="400" height="600" fill="#FFB6C1" opacity="0.3"/>
+    
+    <!-- 标题区域 -->
+    <g transform="translate(450, 200)">
+        <text font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#FF69B4">
+            Chiikawa Pocket
+        </text>
+        <text y="80" font-family="Arial, sans-serif" font-size="32" fill="#666">
+            可爱的口袋吉伊卡哇游戏攻略站
+        </text>
+    </g>
+    
+    <!-- 装饰元素 -->
+    <circle cx="150" cy="150" r="50" fill="#FF69B4" opacity="0.4"/>
+    <circle cx="250" cy="450" r="40" fill="#FF69B4" opacity="0.4"/>
+    <circle cx="1050" cy="100" r="30" fill="#FF69B4" opacity="0.4"/>
+    <circle cx="1100" cy="500" r="45" fill="#FF69B4" opacity="0.4"/>
+</svg> 
