@@ -41,7 +41,7 @@ $ npm run build
 
 ## 支持我们
 
-如果您喜欢我们的内容，可以通过[Ko-fi](https://ko-fi.com/selenium39)支持我们继续创作。
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/selenium39)
 
 ## 版权信息
 
