@@ -111,12 +111,7 @@ const config: Config = {
             },
           ],
         },
-        {to: '/about', label: '关于我们', position: 'left'},
-        {
-          href: 'https://shark-tracer.netease.com/v1/log/default?project_id=108340955&sign=FEO3io04K0BsFn5j2P1s63TaP53ro7ew&log_type=mmad_click',
-          label: '免费加速器推荐',
-          position: 'left'
-        },
+        {to: '/about', label: '关于我们', position: 'left'}
       ],
     },
     footer: {
