@@ -167,31 +167,6 @@ tags: [chiikawa-pocket, 下载攻略, 日服下载, 国际服下载, 安卓下�
 
 **加入讨论群**：通过关注账号，获取玩家交流群信息，一起分享游戏心得
 
-## 六、加速器直达
-
-<div className="download-tools" style={{display: 'flex', justifyContent: 'center', margin: '20px 0'}}>
-  <a href="https://shark-tracer.netease.com/v1/log/default?project_id=108340955&sign=FEO3io04K0BsFn5j2P1s63TaP53ro7ew&log_type=mmad_click" 
-     className="download-button" 
-     style={{
-       display: 'inline-block', 
-       padding: '12px 24px', 
-       backgroundColor: '#FF9800', 
-       color: 'white', 
-       textDecoration: 'none', 
-       borderRadius: '8px', 
-       fontWeight: 'bold', 
-       fontSize: '16px',
-       boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
-       transition: 'all 0.3s ease',
-       border: 'none',
-       textAlign: 'center',
-       minWidth: '250px'
-     }}>
-    ⚡️ 点击获取免费加速器 ⚡️
-  </a>
-</div>
-
-
 <div style={{textAlign: 'center', margin: '20px 0', fontSize: '18px', fontWeight: 'bold', color: '#FF5722'}}>
   明日开服倒计时！准备好你的设备，一起进入Chiikawa的治愈世界吧~ 🌟
 </div> 
