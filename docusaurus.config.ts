@@ -31,12 +31,17 @@ const config: Config = {
     locales: ['zh-Hans'],
   },
 
-  // 添加 Google AdSense 脚本
+  // 添加 Google AdSense 脚本和 Umami 分析脚本
   scripts: [
     {
       src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3914969090265698',
       async: true,
       crossorigin: 'anonymous',
+    },
+    {
+      src: 'https://umami.selenium39.me/script.js',
+      defer: true,
+      'data-website-id': '7c00bacb-d710-42ed-9eea-8ad402d072a0',
     },
   ],
 
